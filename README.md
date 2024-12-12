@@ -3,5 +3,5 @@
 
 [commit_ignore](https://github.com/PeterFumelli/gitlab-hw-/commit/86e3ee4f2d3e727438151186b12790db9bd65350)
 
-[network graph](https://github.com/PeterFumelli/gitlab-hw-/network)
+[network graph-merging branches](https://github.com/PeterFumelli/gitlab-hw-/network) 
 
